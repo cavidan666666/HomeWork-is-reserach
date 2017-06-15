@@ -1,0 +1,77 @@
+(INTERPRETED AND COPILED LANGUAGE DIFFERENT).
+
+Compiled dili ile daxil etdiyiniz kod islenebiler bir fayl olaraq kaydedilmeden evvel,
+
+bir sira masinlara ozel telimatlarla azaldilir.
+
+interprted dillerle ile daxil etdiyiniz kodlar eyni farmatda kaydedilir.
+
+Compiled diller interpretedle muqayisede daha suretli isleyir cunki interpreted diller
+
+isleme vaxtinda olan masin telimatlari ile azladilmalidir(reduce olunmalidir).
+
+Lakin inter dillerle compiled dilde ede bilmedikelrinizi ede bilersiz.
+
+Numune ucun: interpreted diller isleme vaxtinda funksiyalar elave ederek ve deyistirerek ozlerini modify edilrler.
+
+Hemcinin interpreted dilinin muhitinde(cevresinde) applicataionlari inkisaf etdirmek daha asandir,
+
+Cunki kicik bolmeleri test elemek istediyinde applicationu yeniden (recompile) etmek mecburiyyetinde olmursuz.
+--------------------------------------------------------------------------------------------------------------.
+
+
+(Differences between Client-side and Server-side Scripting).
+
+
+Client Serverin cevresinde istifade olunan scriptisletmesi  adeten bir browserdir.
+
+Islem son istifadecilerin komputerinde bas verir.
+
+Menber kodu we serverden internt uzerinden istifadecilerin kompuna transfer olunur ve birbasa brauzerde isledilir.
+
+Script dilinin client kompyuterinde aktivlesdireye ehtiyyaci var.
+
+Bezen biristifadeci tehlukseizlik risqleri haqqinda bilgili olsa Script tesisini baglaya biler.
+
+Bu halda script senedini istifade etmeye calistiqda istifadeciye xeberdar etmek ucun bir alert calir.
+
+-----------------------------------------------------------------------------------------------------.
+
+(programlama dillerinin konseptleri).
+
+programlama dillerinin 5 temel konsepti var.
+
+1)Variables
+2)Control Structures
+3)Data Structures
+4)Syntax
+5)Tools
+
+Deyisen nedir?
+
+Deyisen bir praqramin onurgsidir ve buna gorede her hasnisa ir pragramlama dilinin onurgasidir.
+
+Komputer programlamasinda bir deyisen , bir yaddas sahesi ve  bezi bilinen ve  ya bilinmeyen mikdarlari bilgileri ozunde saxlayan simvolik bir addir.
+
+Deyisen daha sonra istifade etmek ucun melumatlari saxlamaqin sade yoludur.
+--------------------------------------------------------------------------.
+
+cONTROL STRCUTURES:
+
+Control structure deyisenleri analiz eden ve verilen parametirlere dayanarak istiqameti secen bir progralama blokudur.
+---------------------------------------------------------------------------------------------------------------------.
+
+Data Structure:
+
+komputer elmlerinde data structuru datalari semereli bir sekilde istifade ede bilmesi ucun kopmuterde saxlamanin ve organize etmeyin xususi bir yoludur.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
